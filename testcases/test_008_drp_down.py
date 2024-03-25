@@ -13,9 +13,9 @@ class Test_008_drop_down():
 
         driver.maximize_window();
 
-        driver.get('https://www.careinsurance.com/rhicl/proposalcp/renew/index-care');
-
         driver.implicitly_wait(5);
+
+        driver.get('https://www.careinsurance.com/rhicl/proposalcp/renew/index-care');
 
         driver.find_element(By.XPATH, '//input[@placeholder="Policy Number"]').send_keys('1234567890') ;
 

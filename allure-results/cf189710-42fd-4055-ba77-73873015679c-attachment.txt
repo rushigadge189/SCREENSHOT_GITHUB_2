@@ -1,0 +1,12 @@
+[32mINFO    [0m Test_20_04_logger_swag:test_20_04_logger_swaglab.py:14 TEST CASE IS STARTED
+[32mINFO    [0m Test_20_04_logger_swag:test_20_04_logger_swaglab.py:16 OPENING THE BROWSER
+[32mINFO    [0m Test_20_04_logger_swag:test_20_04_logger_swaglab.py:18 MAXIMIZE THE BROWSER
+[32mINFO    [0m Test_20_04_logger_swag:test_20_04_logger_swaglab.py:20 NAVIGAYTE TO THE URL
+[32mINFO    [0m Test_20_04_logger_swag:test_20_04_logger_swaglab.py:23 ENTERING THE USERNAME
+[32mINFO    [0m Test_20_04_logger_swag:test_20_04_logger_swaglab.py:26 ENTERING THE PASSWORD
+[32mINFO    [0m Test_20_04_logger_swag:test_20_04_logger_swaglab.py:29 CLICK ON THE LOGOUT BUTTON
+[32mINFO    [0m Test_20_04_logger_swag:test_20_04_logger_swaglab.py:33 VERIFYING THE ELEMENT
+[32mINFO    [0m Test_20_04_logger_swag:test_20_04_logger_swaglab.py:36 TAKING THE SCREENSHOT
+[32mINFO    [0m Test_20_04_logger_swag:test_20_04_logger_swaglab.py:39 PRINTING THE STATUS
+[32mINFO    [0m Test_20_04_logger_swag:test_20_04_logger_swaglab.py:42 LOGOUT
+[32mINFO    [0m Test_20_04_logger_swag:test_20_04_logger_swaglab.py:47 CLOSING THE BROWSER

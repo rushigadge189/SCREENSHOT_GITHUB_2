@@ -32,7 +32,7 @@ class Test_014_04_division():
         driver.find_element(By.XPATH, '//a[@title="Fusion Backpack"]').click() ;
 
         if(driver.title=='Fusion Backpack') :
-            driver.save_screenshot("D:\\PYTHON CT15\\REVISION\\screenshots\\test_104_02_details_pass.png") ;
+            driver.save_screenshot("D:\\PYTHON CT15\\REVISION\\screenshots\\test_14_02_details_pass.png") ;
 
             text1=driver.find_element(By.XPATH, '(//div[@class="value"])[2]').text ;
             print('\n*********PRODUCT DESCRIPTION********') ;
@@ -43,7 +43,7 @@ class Test_014_04_division():
 
         else:
 
-            driver.save_screenshot("D:\\PYTHON CT15\\REVISION\\screenshots\\test_104_02_details_fail.png") ;
+            driver.save_screenshot("D:\\PYTHON CT15\\REVISION\\screenshots\\test_14_02_details_fail.png") ;
 
             print('\n*********SORRY, NOT ABLE TO PROCESS OUR REQUEST**********')
             driver.close() ;

@@ -1,0 +1,13 @@
+[32mINFO    [0m Test_20_log_orange_hrm:test_20_orangehrnm_logs.py:16 TEST CASE IS STARTED
+[32mINFO    [0m Test_20_log_orange_hrm:test_20_orangehrnm_logs.py:18 OPEN THE BROWSER
+[32mINFO    [0m Test_20_log_orange_hrm:test_20_orangehrnm_logs.py:21 MAXIMIZE THE WINDOW
+[32mINFO    [0m Test_20_log_orange_hrm:test_20_orangehrnm_logs.py:24 IMPLICIT WAIT
+[32mINFO    [0m Test_20_log_orange_hrm:test_20_orangehrnm_logs.py:27 NAVIGATE TO THE ORL
+[32mINFO    [0m Test_20_log_orange_hrm:test_20_orangehrnm_logs.py:30 ENTER THE URL
+[32mINFO    [0m Test_20_log_orange_hrm:test_20_orangehrnm_logs.py:33 ENTER THE PASSWORD
+[32mINFO    [0m Test_20_log_orange_hrm:test_20_orangehrnm_logs.py:36 CLICK ON THE LOGIN BUTTON
+[32mINFO    [0m Test_20_log_orange_hrm:test_20_orangehrnm_logs.py:40 LOOKING FOR AN ELEMENT/PAGE TITLE
+[32mINFO    [0m Test_20_log_orange_hrm:test_20_orangehrnm_logs.py:46 PRINTING STATEMENT
+[32mINFO    [0m Test_20_log_orange_hrm:test_20_orangehrnm_logs.py:49 PROCEED FOR LOGOUT
+[32mINFO    [0m Test_20_log_orange_hrm:test_20_orangehrnm_logs.py:56 CLOSE THE BROWSER
+[32mINFO    [0m Test_20_log_orange_hrm:test_20_orangehrnm_logs.py:70 TEST CASE IS COMPLETED

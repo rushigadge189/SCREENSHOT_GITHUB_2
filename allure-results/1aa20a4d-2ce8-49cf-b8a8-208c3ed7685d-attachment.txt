@@ -1,0 +1,15 @@
+[32mINFO    [0m Test_20_luma_logger:test_20_02_luma_logs.py:13 TEST CASE IS STARTED
+[32mINFO    [0m Test_20_luma_logger:test_20_02_luma_logs.py:15 OPENING THE BROWSER
+[32mINFO    [0m Test_20_luma_logger:test_20_02_luma_logs.py:18 MAXIMIZE THE WINDOW
+[32mINFO    [0m Test_20_luma_logger:test_20_02_luma_logs.py:23 NAVIGATE TO THE URL
+[32mINFO    [0m Test_20_luma_logger:test_20_02_luma_logs.py:26 CLICK ON THE SIGN IN
+[32mINFO    [0m Test_20_luma_logger:test_20_02_luma_logs.py:29 ENTERING THE USERNAME
+[32mINFO    [0m Test_20_luma_logger:test_20_02_luma_logs.py:32 ENTERING THE PASSWORD
+[32mINFO    [0m Test_20_luma_logger:test_20_02_luma_logs.py:35 CLICK ON THE SUBMIT BUTTON
+[32mINFO    [0m Test_20_luma_logger:test_20_02_luma_logs.py:38 VERIFY THE TITLE
+[32mINFO    [0m Test_20_luma_logger:test_20_02_luma_logs.py:41 LOGIN PASSED
+[32mINFO    [0m Test_20_luma_logger:test_20_02_luma_logs.py:44 TAKING THE SCREENSHOT
+[32mINFO    [0m Test_20_luma_logger:test_20_02_luma_logs.py:52 PRINTING THE ACCOUNT DETAILS
+[32mINFO    [0m Test_20_luma_logger:test_20_02_luma_logs.py:58 LOGOUT
+[32mINFO    [0m Test_20_luma_logger:test_20_02_luma_logs.py:63 CLSING THE BROWSER
+[32mINFO    [0m Test_20_luma_logger:test_20_02_luma_logs.py:80 TEST CASE IS COMPLETED

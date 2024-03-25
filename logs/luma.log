@@ -1,0 +1,27 @@
+ 2023-12-15 20:17:02,414 : Test_20_log_orange_hrm : INFO : 16 : test_20_oange_hrm_logs : TEST CASE IS STARTED 
+ 2023-12-15 20:17:02,414 : Test_20_log_orange_hrm : INFO : 18 : test_20_oange_hrm_logs : OPEN THE BROWSER 
+ 2023-12-15 20:17:04,728 : Test_20_log_orange_hrm : INFO : 21 : test_20_oange_hrm_logs : MAXIMIZE THE WINDOW 
+ 2023-12-15 20:17:04,863 : Test_20_log_orange_hrm : INFO : 24 : test_20_oange_hrm_logs : IMPLICIT WAIT 
+ 2023-12-15 20:17:04,865 : Test_20_log_orange_hrm : INFO : 27 : test_20_oange_hrm_logs : NAVIGATE TO THE ORL 
+ 2023-12-15 20:17:09,556 : Test_20_log_orange_hrm : INFO : 30 : test_20_oange_hrm_logs : ENTER THE URL 
+ 2023-12-15 20:17:10,898 : Test_20_log_orange_hrm : INFO : 33 : test_20_oange_hrm_logs : ENTER THE PASSWORD 
+ 2023-12-15 20:17:11,375 : Test_20_log_orange_hrm : INFO : 36 : test_20_oange_hrm_logs : CLICK ON THE LOGIN BUTTON 
+ 2023-12-15 20:17:11,507 : Test_20_log_orange_hrm : INFO : 40 : test_20_oange_hrm_logs : LOOKING FOR AN ELEMENT/PAGE TITLE 
+ 2023-12-15 20:17:14,038 : Test_20_log_orange_hrm : INFO : 46 : test_20_oange_hrm_logs : PRINTING STATEMENT 
+ 2023-12-15 20:17:14,042 : Test_20_log_orange_hrm : INFO : 49 : test_20_oange_hrm_logs : PROCEED FOR LOGOUT 
+ 2023-12-15 20:17:16,152 : Test_20_log_orange_hrm : INFO : 56 : test_20_oange_hrm_logs : CLOSE THE BROWSER 
+ 2023-12-15 20:18:52,299 : Test_20_luma_logger : INFO : 13 : test_20_log_luma : TEST CASE IS STARTED 
+ 2023-12-15 20:18:52,299 : Test_20_luma_logger : INFO : 15 : test_20_log_luma : OPENING THE BROWSER 
+ 2023-12-15 20:18:54,704 : Test_20_luma_logger : INFO : 18 : test_20_log_luma : MAXIMIZE THE WINDOW 
+ 2023-12-15 20:18:54,851 : Test_20_luma_logger : INFO : 23 : test_20_log_luma : NAVIGATE TO THE URL 
+ 2023-12-15 20:18:57,666 : Test_20_luma_logger : INFO : 26 : test_20_log_luma : CLICK ON THE SIGN IN 
+ 2023-12-15 20:19:00,122 : Test_20_luma_logger : INFO : 29 : test_20_log_luma : ENTERING THE USERNAME 
+ 2023-12-15 20:19:00,717 : Test_20_luma_logger : INFO : 32 : test_20_log_luma : ENTERING THE PASSWORD 
+ 2023-12-15 20:19:00,859 : Test_20_luma_logger : INFO : 35 : test_20_log_luma : CLICK ON THE SUBMIT BUTTON 
+ 2023-12-15 20:19:03,222 : Test_20_luma_logger : INFO : 38 : test_20_log_luma : VERIFY THE TITLE 
+ 2023-12-15 20:19:03,322 : Test_20_luma_logger : INFO : 41 : test_20_log_luma : LOGIN PASSED 
+ 2023-12-15 20:19:03,324 : Test_20_luma_logger : INFO : 44 : test_20_log_luma : TAKING THE SCREENSHOT 
+ 2023-12-15 20:19:05,779 : Test_20_luma_logger : INFO : 52 : test_20_log_luma : PRINTING THE ACCOUNT DETAILS 
+ 2023-12-15 20:19:05,885 : Test_20_luma_logger : INFO : 58 : test_20_log_luma : LOGOUT 
+ 2023-12-15 20:19:06,188 : Test_20_luma_logger : INFO : 63 : test_20_log_luma : CLSING THE BROWSER 
+ 2023-12-15 20:19:06,337 : Test_20_luma_logger : INFO : 80 : test_20_log_luma : TEST CASE IS COMPLETED 

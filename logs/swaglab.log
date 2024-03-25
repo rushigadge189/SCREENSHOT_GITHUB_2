@@ -1,0 +1,12 @@
+ 2023-12-18 20:09:16,381 : Test_20_04_logger_swag : INFO : 14 : test_20_04_lo_swag_labs : TEST CASE IS STARTED 
+ 2023-12-18 20:09:16,382 : Test_20_04_logger_swag : INFO : 16 : test_20_04_lo_swag_labs : OPENING THE BROWSER 
+ 2023-12-18 20:09:16,383 : Test_20_04_logger_swag : INFO : 18 : test_20_04_lo_swag_labs : MAXIMIZE THE BROWSER 
+ 2023-12-18 20:09:16,383 : Test_20_04_logger_swag : INFO : 20 : test_20_04_lo_swag_labs : NAVIGAYTE TO THE URL 
+ 2023-12-18 20:09:17,713 : Test_20_04_logger_swag : INFO : 23 : test_20_04_lo_swag_labs : ENTERING THE USERNAME 
+ 2023-12-18 20:09:18,141 : Test_20_04_logger_swag : INFO : 26 : test_20_04_lo_swag_labs : ENTERING THE PASSWORD 
+ 2023-12-18 20:09:18,322 : Test_20_04_logger_swag : INFO : 29 : test_20_04_lo_swag_labs : CLICK ON THE LOGOUT BUTTON 
+ 2023-12-18 20:09:18,736 : Test_20_04_logger_swag : INFO : 33 : test_20_04_lo_swag_labs : VERIFYING THE ELEMENT 
+ 2023-12-18 20:09:18,813 : Test_20_04_logger_swag : INFO : 36 : test_20_04_lo_swag_labs : TAKING THE SCREENSHOT 
+ 2023-12-18 20:09:19,310 : Test_20_04_logger_swag : INFO : 39 : test_20_04_lo_swag_labs : PRINTING THE STATUS 
+ 2023-12-18 20:09:19,312 : Test_20_04_logger_swag : INFO : 42 : test_20_04_lo_swag_labs : LOGOUT 
+ 2023-12-18 20:09:19,612 : Test_20_04_logger_swag : INFO : 47 : test_20_04_lo_swag_labs : CLOSING THE BROWSER 

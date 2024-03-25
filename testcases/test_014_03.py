@@ -43,7 +43,7 @@ class Test_014_03_multiplication() :
 
         if ( driver.title == "My Account" ) :
 
-            driver.save_screenshot("D:\\PYTHON CT15\\REVISION\\screenshots\\test_014_02_details.pass.png") ;
+            driver.save_screenshot("D:\\PYTHON CT15\\REVISION\\screenshots\\test_014_02_details_pass.png") ;
 
             print('\n*********CONTACT INFORMATION********') ;
             text1=driver.find_element(By.XPATH, '(//div[@class="box-content"])[1]').text ;
@@ -62,7 +62,7 @@ class Test_014_03_multiplication() :
 
         else:
 
-            driver.save_screenshot("D:\\PYTHON CT15\\REVISION\\screenshots\\test_014_02_details.fail.png") ;
+            driver.save_screenshot("D:\\PYTHON CT15\\REVISION\\screenshots\\test_014_02_details_fail.png") ;
 
             print("**********SORRY......!, NOT ABLE TO PRINT ACCOUNT DETAILS") ;
 

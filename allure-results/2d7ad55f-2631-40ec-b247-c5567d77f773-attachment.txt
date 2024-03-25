@@ -1,0 +1,19 @@
+[32mINFO    [0m Test_20_03_log_heroku:test_20_03_heroku_log.py:12 TEST CASE IS STARTED
+[35mDEBUG   [0m Test_20_03_log_heroku:test_20_03_heroku_log.py:16 ***THIS IS DEBUG LOG***
+[32mINFO    [0m Test_20_03_log_heroku:test_20_03_heroku_log.py:17 ***THIS IS INFO LOG***
+[33mWARNING [0m Test_20_03_log_heroku:test_20_03_heroku_log.py:18 ***THIS IS WARNING LOG***
+[1m[31mERROR   [0m Test_20_03_log_heroku:test_20_03_heroku_log.py:19 ***THIS IS ERROR LOG***
+[31mCRITICAL[0m Test_20_03_log_heroku:test_20_03_heroku_log.py:20 ***THIS IS CRITICAL LOG***
+[32mINFO    [0m Test_20_03_log_heroku:test_20_03_heroku_log.py:25 OPEN THE BROWSER
+[32mINFO    [0m Test_20_03_log_heroku:test_20_03_heroku_log.py:27 MAXIMIZE THE BROWSER
+[32mINFO    [0m Test_20_03_log_heroku:test_20_03_heroku_log.py:29 NAVIGATION TOWARDS THE URL
+[32mINFO    [0m Test_20_03_log_heroku:test_20_03_heroku_log.py:33 ENTERIN THE USERNAME
+[32mINFO    [0m Test_20_03_log_heroku:test_20_03_heroku_log.py:36 ENETRING THE PASSWORD
+[32mINFO    [0m Test_20_03_log_heroku:test_20_03_heroku_log.py:39 CLICK ON THE LOGIN BUTTON
+[32mINFO    [0m Test_20_03_log_heroku:test_20_03_heroku_log.py:42 LOOKING FOER AN ELEMENT
+[32mINFO    [0m Test_20_03_log_heroku:test_20_03_heroku_log.py:46 PRINTING THE STATUS
+[32mINFO    [0m Test_20_03_log_heroku:test_20_03_heroku_log.py:49 TAKING HE SCREENSHOT
+[32mINFO    [0m Test_20_03_log_heroku:test_20_03_heroku_log.py:52 PRINTING THE WELCOME TEXT
+[32mINFO    [0m Test_20_03_log_heroku:test_20_03_heroku_log.py:57 CLICK ON LOGOUT BUTTON
+[32mINFO    [0m Test_20_03_log_heroku:test_20_03_heroku_log.py:60 CLOSING THE BROWSER
+[32mINFO    [0m Test_20_03_log_heroku:test_20_03_heroku_log.py:77 TEST CASE IS COMPLETED

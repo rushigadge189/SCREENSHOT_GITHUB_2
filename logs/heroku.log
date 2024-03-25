@@ -1,0 +1,21 @@
+ 2023-12-16 19:49:45,336 : Test_20_03_log_heroku : INFO : 12 : test_20_03_heroku_logger : TEST CASE IS STARTED 
+ 2023-12-16 19:49:45,338 : Test_20_03_log_heroku : INFO : 17 : test_20_03_heroku_logger : ***THIS IS INFO LOG*** 
+ 2023-12-16 19:49:45,338 : Test_20_03_log_heroku : WARNING : 18 : test_20_03_heroku_logger : ***THIS IS WARNING LOG*** 
+ 2023-12-16 19:49:45,338 : Test_20_03_log_heroku : ERROR : 19 : test_20_03_heroku_logger : ***THIS IS ERROR LOG*** 
+ 2023-12-16 19:49:45,339 : Test_20_03_log_heroku : CRITICAL : 20 : test_20_03_heroku_logger : ***THIS IS CRITICAL LOG*** 
+ 2023-12-16 19:49:45,339 : Test_20_03_log_heroku : INFO : 25 : test_20_03_heroku_logger : OPEN THE BROWSER 
+ 2023-12-16 19:49:45,340 : Test_20_03_log_heroku : INFO : 27 : test_20_03_heroku_logger : MAXIMIZE THE BROWSER 
+ 2023-12-16 19:49:45,340 : Test_20_03_log_heroku : INFO : 29 : test_20_03_heroku_logger : NAVIGATION TOWARDS THE URL 
+ 2023-12-16 19:49:46,311 : Test_20_03_log_heroku : INFO : 33 : test_20_03_heroku_logger : ENTERIN THE USERNAME 
+ 2023-12-16 19:49:49,131 : Test_20_03_log_heroku : INFO : 36 : test_20_03_heroku_logger : ENETRING THE PASSWORD 
+ 2023-12-16 19:49:49,243 : Test_20_03_log_heroku : INFO : 39 : test_20_03_heroku_logger : CLICK ON THE LOGIN BUTTON 
+ 2023-12-16 19:49:49,891 : Test_20_03_log_heroku : INFO : 42 : test_20_03_heroku_logger : LOOKING FOER AN ELEMENT 
+ 2023-12-16 19:49:49,906 : Test_20_03_log_heroku : INFO : 46 : test_20_03_heroku_logger : PRINTING THE STATUS 
+ 2023-12-16 19:49:49,907 : Test_20_03_log_heroku : INFO : 49 : test_20_03_heroku_logger : TAKING HE SCREENSHOT 
+ 2023-12-16 19:49:50,260 : Test_20_03_log_heroku : INFO : 52 : test_20_03_heroku_logger : PRINTING THE WELCOME TEXT 
+ 2023-12-16 19:49:50,298 : Test_20_03_log_heroku : INFO : 57 : test_20_03_heroku_logger : CLICK ON LOGOUT BUTTON 
+ 2023-12-16 19:49:50,892 : Test_20_03_log_heroku : INFO : 60 : test_20_03_heroku_logger : CLOSING THE BROWSER 
+ 2023-12-16 19:49:51,105 : Test_20_03_log_heroku : INFO : 77 : test_20_03_heroku_logger : TEST CASE IS COMPLETED 
+ 2023-12-16 19:50:23,174 : Test_20_03_log_heroku : WARNING : 18 : test_20_03_heroku_logger : ***THIS IS WARNING LOG*** 
+ 2023-12-16 19:50:23,175 : Test_20_03_log_heroku : ERROR : 19 : test_20_03_heroku_logger : ***THIS IS ERROR LOG*** 
+ 2023-12-16 19:50:23,175 : Test_20_03_log_heroku : CRITICAL : 20 : test_20_03_heroku_logger : ***THIS IS CRITICAL LOG*** 

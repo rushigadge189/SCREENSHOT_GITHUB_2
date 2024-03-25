@@ -33,6 +33,7 @@ class Test_016_ss():
             assert False ;
 
     def test_016_sum(self):
+
         a=20;
         b=30;
         sum=a+b;
